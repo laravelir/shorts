@@ -3,7 +3,7 @@
   [![Total Downloads](https://img.shields.io/packagist/dt/miladimos/package-skeleton.svg?style=flat-square)](https://packagist.org/packages/miladimos/package-skeleton)
 
 
-# vendor/package
+# laravelir/shorts
 
 A package for fun
 
@@ -12,7 +12,7 @@ A package for fun
 1. Run the command below to add this package:
 
 ```
-composer require vendor/package
+composer require laravelir/package
 ```
 
 2. Open your config/app.php and add the following to the providers array:
